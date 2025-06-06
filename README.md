@@ -2,7 +2,7 @@
 
 <img align="left" width="150" height="150" src="https://github.com/ironcore-dev/ironcore/blob/main/docs/assets/logo.svg" alt="IronCore Logo" width="200" />
 
-Welcome to the IronCore Technical Steering Committee repository, which is responsible for the overall governance and direction of the IronCore project.
+Welcome to the IronCore TSC (Technical Steering Committee) repository, which is responsible for the overall governance and direction of the IronCore project.
 
 The IronCore organization and its projects are an open-source standard, contributed to the Linux Foundation under the NeoNephos Foundation community.
 <br/>
