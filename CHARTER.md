@@ -1,41 +1,36 @@
-# Technical Charter (the “Charter”) for CobaltCore
+# Technical Charter (the “Charter”) for IronCore
 
-Adopted 04.06.2025 (June 4, 2025)
+Adopted __________________
 
 
-This Charter sets forth the responsibilities and procedures for technical contribution to, and oversight of, the CobaltCore open source project, which has been established as a project of Linux Foundation Europe, a Belgian private stichting headquartered at Kunstlaan 56, Brussels  (“LF Europe”) (the “Project”).  All contributors and other participants in the Project (collectively, “Collaborators”) must comply with the terms of this Charter.
+This Charter sets forth the responsibilities and procedures for technical contribution to, and oversight of, the IronCore open source project, which has been established as a project of Linux Foundation Europe, a Belgian private stichting headquartered at Kunstlaan 56, Brussels  (“LF Europe”) (the “Project”).  All contributors and other participants in the Project (collectively, “Collaborators”) must comply with the terms of this Charter.
 
 Throughout this document, we use terms as defined in the GitHub Glossary.  
 https://docs.github.com/en/get-started/learning-about-github/github-glossary (as of 01.03.2025)
 
 ## Mission and Scope of the Project
 
-The mission of the Project is to provide a reimagined, opinionated, and Kubernetes enabled OpenStack distribution, fully embedded with other projects of ApeiroRA. It complements IronCore and bridges the obligation to support the numerous non-cloud-native workloads by ensuring backward compatibility.
+The **mission** of the Project is to provide the new reference for compounded software layers for inventorying, managing, and maintaining Baremetal using Kubernetes’ cloud-native principles.
 
-The scope of the Project includes collaborative development under the Project Licenses, as defined in the project’s code repositories supporting the mission, including documentation, testing, integration and the creation of other artifacts that aid the development, deployment, operation or adoption of the open source project.
-
-
+The **scope** of the Project includes collaborative development under the Project Licenses, as defined in the project’s code repositories supporting the mission, including documentation, testing, integration and the creation of other artifacts that aid the development, deployment, operation or adoption of the open source project.
 
 ## Technical Steering Committee
 
 The Technical Steering Committee (the “TSC”) will be responsible for all technical oversight of the open source Project.
 
-The initial TSC voting members are individuals listed on [OWNERS.md](./OWNERS.md).  The TSC may choose an alternative approach for determining the voting members of the TSC, and any such alternative approach will be documented in the CONTRIBUTING file.
+The initial TSC voting members are individuals listed in [OWNERS.md](./OWNERS.md) file. The TSC may choose an alternative approach for determining the voting members of the TSC, and any such alternative approach will be documented in the [CONTRIBUTING.md](./CONTRIBUTING.md) file.
 
 At the inception of the project, details concerning organization and decision making of sub-projects will be documented by the TSC in a TSC or similar repository maintained for this purpose.
 
 Any meetings of the Technical Steering Committee are intended to be open to the public, and can be conducted electronically, via teleconference, or in person.
 
-
 TSC projects generally will involve Contributors and Code Owners. The TSC may adopt or modify roles so long as the roles are documented publicly. Unless otherwise documented:
 
-Contributors include anyone in the technical community that contributes code, documentation, or other technical artifacts to the Project;
+- i. Contributors include anyone in the technical community that contributes code, documentation, or other technical artifacts to the Project;
 
-Code Owners are Contributors who have earned the ability to modify (“commit”) source code, documentation or other technical artifacts in a project’s repository; and
+- ii. Code Owners are Contributors who have earned the ability to modify (“commit”) source code, documentation or other technical artifacts in a project’s repository; and
 
-
-
-A Contributor may become a Code Owners by a majority approval of the existing Code Owners. A Code Owner may be removed by a majority approval of the other existing Code Owners.
+- iii. A Contributor may become a Code Owners by a majority approval of the existing Code Owners. A Code Owner may be removed by a majority approval of the other existing Code Owners.
 
 Participation in the Project through becoming a Contributor and Code Owner is open to anyone so long as they abide by the terms of this Charter.
 
@@ -45,15 +40,15 @@ The TSC may elect a TSC Chair, who will preside over meetings of the TSC and wil
 
 Responsibilities: The TSC will be responsible for all aspects of oversight relating to the Project, which may include:
 
-- coordinating the technical direction of the Project;
-- approving project or system proposals (including, but not limited to, incubation, deprecation, and changes to a sub-project’s scope);
-- organizing sub-projects and removing sub-projects;
-- creating sub-committees or working groups to focus on cross-project technical issues and requirements;
-- appointing representatives to work with other open source or open standards communities;
-- establishing community norms, workflows, issuing releases, and security issue reporting policies;
-- approving and implementing policies and processes for contributing to be published publicly and coordinating with LF Europe to resolve matters or concerns that may arise as set forth in Section 7 of this Charter;
-- discussions, seeking consensus, and where necessary, voting on technical matters relating to the code base that affect multiple projects; and
-- coordinating any marketing, events, or communications regarding the Project.
+- i. coordinating the technical direction of the Project;
+- ii. approving project or system proposals (including, but not limited to, incubation, deprecation, and changes to a sub-project’s scope);
+- iii. organizing sub-projects and removing sub-projects;
+- iv. creating sub-committees or working groups to focus on cross-project technical issues and requirements;
+- v. appointing representatives to work with other open source or open standards communities;
+- vi. establishing community norms, workflows, issuing releases, and security issue reporting policies;
+- vii. approving and implementing policies and processes for contributing to be published publicly and coordinating with LF Europe to resolve matters or concerns that may arise as set forth in Section [Intellectual property policy](#intellectual-property-policy) of this Charter;
+- viii. discussions, seeking consensus, and where necessary, voting on technical matters relating to the code base that affect multiple projects; and
+- ix. coordinating any marketing, events, or communications regarding the Project.
 
 
 ## TSC Voting
@@ -62,7 +57,7 @@ While the Project aims to operate as a consensus-based community, if any TSC dec
 
 Quorum for TSC meetings requires at least fifty percent of all voting members of the TSC to be present. The TSC may continue to meet if quorum is not met but will be prevented from making any decisions at the meeting.
 
-Except as provided in Section 7.c. and 8.a, decisions by vote at a meeting require a majority vote of those in attendance, provided quorum is met. Decisions made by electronic vote without a meeting require a majority vote of all voting members of the TSC.
+Except as provided in Section [Intellectual property policy](##intellectual-property-policy).c and [Amendments](##amendments), decisions by vote at a meeting require a majority vote of those in attendance, provided quorum is met. Decisions made by electronic vote without a meeting require a majority vote of all voting members of the TSC.
 
 In the event a vote cannot be resolved by the TSC, TSC goes to TAC to resolve it.
 
@@ -90,32 +85,23 @@ Under no circumstances will LF Europe be expected or required to undertake any a
 ## General Rules and Operations.
 
 The Project will:
-- engage in the work of the Project in a professional manner consistent with maintaining a cohesive community, while also maintaining the goodwill and esteem of LF Europe and other partner organizations in the open source community; and
-- respect the rights of all trademark owners, including any branding and trademark usage guidelines.
+- i. engage in the work of the Project in a professional manner consistent with maintaining a cohesive community, while also maintaining the goodwill and esteem of LF Europe and other partner organizations in the open source community; and
+- ii. respect the rights of all trademark owners, including any branding and trademark usage guidelines.
 
 ## Intellectual Property Policy
 
-Collaborators acknowledge that the copyright in all new contributions will be retained by the copyright holder as independent works of authorship and that no contributor or copyright holder will be required to assign copyrights to the Project.
+a. Collaborators acknowledge that the copyright in all new contributions will be retained by the copyright holder as independent works of authorship and that no contributor or copyright holder will be required to assign copyrights to the Project.
 
-Except as described in Section 7.c., all contributions to the Project are subject to the following:
+b. Except as described in Section 7.c., all contributions to the Project are subject to the following:
+- i. All new inbound code contributions to the Project must be made using [Apache 2.0 License](./LICENSE) or MIT (Project Licenses)
+- ii. All new inbound code contributions must also be accompanied by a Developer Certificate of Origin (http://developercertificate.org) sign-off in the source code system that is submitted through a TSC-approved contribution process which will bind the authorized contributor and, if not self-employed, their employer to the applicable license;
+- iii. All outbound code will be made available under the Project Licenses
+- iv. Documentation will be received and made available by the Project under the Creative Commons Attribution 4.0 International License (available at http://creativecommons.org/licenses/by/4.0/).
+- v. v.	The Project may seek to integrate and contribute back to other open source projects (“Upstream Projects”). In such cases, the Project will conform to all license requirements of the Upstream Projects, including dependencies, leveraged by the Project.  Upstream Project code contributions not stored within the Project’s code repositories will comply with the contribution process and license terms for the applicable Upstream Project.
 
-All new inbound code contributions to the Project must be made using Apache 2.0 or MIT (Project Licenses).
-
-All new inbound code contributions must also be accompanied by a Developer Certificate of Origin (http://developercertificate.org) sign-off in the source code system that is submitted through a TSC-approved contribution process which will bind the authorized contributor and, if not self-employed, their employer to the applicable license;
-
-All outbound code will be made available under the Project Licenses.
-
-
-
-Documentation will be received and made available by the Project under the Creative Commons Attribution 4.0 International License (available at http://creativecommons.org/licenses/by/4.0/).
-
-
-
-The Project may seek to integrate and contribute back to other open source projects (“Upstream Projects”). In such cases, the Project will conform to all license requirements of the Upstream Projects, including dependencies, leveraged by the Project.  Upstream Project code contributions not stored within the Project’s code repositories will comply with the contribution process and license terms for the applicable Upstream Project.
-
-The TSC may approve the use of an alternative open license or licenses for inbound or outbound contributions on an exception basis, provided, however, that any use of non-permissive open license must be thoroughly documented and described to the TSC and it is expected that such approved exceptions will be limited. To request an exception, please describe the contribution, the alternative open source license(s), and the justification for using an alternative open source license for the Project. License exceptions must be approved by a two-thirds vote of the entire TSC.
-
-Contributed files should contain license information, such as SPDX short form identifiers, indicating the open source license or licenses pertaining to the file.
+c. The TSC may approve the use of an alternative open license or licenses for inbound or outbound contributions on an exception basis, provided, however, that any use of non-permissive open license must be thoroughly documented and described to the TSC and it is expected that such approved exceptions will be limited. To request an exception, please describe the contribution, the alternative open source license(s), and the justification for using an alternative open source license for the Project. License exceptions must be approved by a two-thirds vote of the entire TSC.
+ 
+d. Contributed files should contain license information, such as SPDX short form identifiers, indicating the open source license or licenses pertaining to the file.
 
 ## Amendments
 
