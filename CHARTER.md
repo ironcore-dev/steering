@@ -57,7 +57,7 @@ While the Project aims to operate as a consensus-based community, if any TSC dec
 
 Quorum for TSC meetings requires at least fifty percent of all voting members of the TSC to be present. The TSC may continue to meet if quorum is not met but will be prevented from making any decisions at the meeting.
 
-Except as provided in Section [Intellectual property policy](##intellectual-property-policy).c and [Amendments](##amendments), decisions by vote at a meeting require a majority vote of those in attendance, provided quorum is met. Decisions made by electronic vote without a meeting require a majority vote of all voting members of the TSC.
+Except as provided in Section [Intellectual property policy](#intellectual-property-policy).c and [Amendments](#amendments), decisions by vote at a meeting require a majority vote of those in attendance, provided quorum is met. Decisions made by electronic vote without a meeting require a majority vote of all voting members of the TSC.
 
 In the event a vote cannot be resolved by the TSC, TSC goes to TAC to resolve it.
 
