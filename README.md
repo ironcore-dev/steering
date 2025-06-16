@@ -21,9 +21,9 @@ Below you can find the governenace documents:
 
 ## Meetings
 
-> We'll host private or public monthly steering meetings, links and dates to be announced.
-
-For now, an invitation to the meeting is required, please contact the TSC Chair to get an invitation, see [OWNERS.md](./OWNERS.md).
+We'll host public monthly steering meetings, links and dates to be announced. Further technical discussion of individual bugs, fixes, enhancements and features will be held on previously established area meetings of regular cadence. If your presence is required on these meetings, you will be invited by organizer.
+ 
+For now, an invitation to the TSC meeting is required, please contact the TSC Chair to get an invitation, see [OWNERS.md](./OWNERS.md).
 
 Meeting Notes can be found in the [./meeting-minutes](./meeting-minutes/) folder.
 
