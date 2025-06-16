@@ -1,4 +1,4 @@
-# Governance (Template)
+# Governance
 
 ## Governance Documents supplied
 
