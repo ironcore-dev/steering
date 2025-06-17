@@ -9,12 +9,7 @@ path = [
     ".gitignore",
     "CODEOWNERS",
     "Dockerfile",
-    "Makefile",
-    "mkdocs.yml",
     "REUSE.toml",
-    "hack/**",
-    "package-lock.json",
-    "package.json",
 ]
 precedence = "aggregate"
 SPDX-FileCopyrightText = "2025 SAP SE or an SAP affiliate company and IronCore contributors"
