@@ -1,6 +1,6 @@
 ---
 name: "TSC Action Item"
-description: "Log and track specific action items from meetings or decisions"
+about: "Log and track specific action items from meetings or decisions"
 title: "TSC Action: [Short description]"
 labels: ["tsc/action"]
 ---

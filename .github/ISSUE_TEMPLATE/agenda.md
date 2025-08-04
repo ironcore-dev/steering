@@ -1,6 +1,6 @@
 ---
 name: "TSC Meeting Agenda"
-description: "Template for coordinating a Technical Steering Committee (TSC) meeting"
+about: "Template for coordinating a Technical Steering Committee (TSC) meeting"
 title: "TSC Meeting Agenda – YYYY-MM-DD"
 labels: ["tsc/agenda"]
 ---

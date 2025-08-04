@@ -1,6 +1,6 @@
 ---
 name: "TSC Decision Follow-up"
-description: "Track implementation of a previously approved TSC decision"
+about: "Track implementation of a previously approved TSC decision"
 title: "Decision: [Decision title or summary] – Follow-up"
 labels: ["tsc/decision"]
 ---

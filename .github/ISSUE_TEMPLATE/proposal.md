@@ -1,6 +1,6 @@
 ---
 name: "TSC Proposal / RFC"
-description: "Propose a technical or governance change for TSC consideration"
+about: "Propose a technical or governance change for TSC consideration"
 title: "TSC Proposal: [One-line summary]"
 labels: ["tsc/proposal"]
 ---
