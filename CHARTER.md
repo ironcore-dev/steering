@@ -10,7 +10,7 @@ https://docs.github.com/en/get-started/learning-about-github/github-glossary (as
 
 ## Mission and Scope of the Project
 
-The **mission** of the Project is to provide the new reference for compounded software layers for inventorying, managing, and maintaining Baremetal using Kubernetes’ cloud-native principles.
+The **mission** of the project is to create an open-source platform dedicated to empowering users with robust, declarative infrastructure management and bare metal automation, seamlessly integrating these capabilities into the cloud-native ecosystem via a Kubernetes-native API.
 
 The **scope** of the Project includes collaborative development under the Project Licenses, as defined in the project’s code repositories supporting the mission, including documentation, testing, integration and the creation of other artifacts that aid the development, deployment, operation or adoption of the open source project.
 
