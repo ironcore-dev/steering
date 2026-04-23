@@ -28,7 +28,7 @@ We'll host public monthly steering meetings, links and dates to be announced. Fu
  
 For now, an invitation to the TSC meeting is required, please contact the TSC Chair to get an invitation, see [OWNERS.md](./OWNERS.md).
 
-Meeting Notes can be found in the [./meeting-minutes](./meeting-minutes/) folder.
+Meeting Notes can be found in the [./meeting-minutes](meetings/) folder.
 
 ## Repository guidelines
 
