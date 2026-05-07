@@ -13,5 +13,6 @@
 4. New Maintainer/Contributor groups, permissions and more -- presenter: @gonzolino
 5. Housekeeping: TSC agenda topics collection -- presenter: @afritzler
    - https://ironcore-dev.slack.com/docs/T01V4AK8HQ8/F0AMB8Z1B8S
-6. Propose @maxmoehl as new TSC member -- presenter: @afritzler
-7. Discussion 
+6. Vote: Add Maximilian Moehl as TSC voting member as new TSC member -- presenter: @afritzler
+7. Vote: Move Guevenc Guelce to TSC Emeritus status -- presenter: @afritzler
+8. Discussion 
