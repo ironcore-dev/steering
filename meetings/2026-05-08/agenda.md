@@ -1,6 +1,7 @@
 # IronCore Technical Steering Committee (TSC) Meeting - 2026-05-08
 
-## Agenda Topics
+## Agenda 
+
 1. Central enhancement proposal process and template -- presenter: @maxmoehl, @afritzler
    - https://github.com/ironcore-dev/enhancements 
 2. Community/Office hours calls -- presenter: @afritzler

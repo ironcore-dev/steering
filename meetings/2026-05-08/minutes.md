@@ -1,24 +1,41 @@
-# IronCore Technical Steering Committee (TSC) Meeting Notes - YYYY-MM-DD
+# IronCore Technical Steering Committee (TSC) Meeting Notes - 2026-05-08
 
 ## Attendance
 
 ### IronCore Technical Steering Members
 
--
+- [x] Andreas Fritzler (Chair)
+- [ ] Malte Janduda
+- [x] Andre Russ
+- [x] Benjamin Alpert
+- [ ] Christian Schupfner
+- [ ] Filipp Akinfiev
+- [ ] Florin Peter
+- [ ] Guevenc Guelce
+- [ ] Lukas Frank
+- [x] Matus Taraba
 
 ### Observers
 
--
-
+- [x] Marian Schwarz
+- [ ] Priyanka Sakundarwar
+- [ ] Tristan Scheidemann
+- 
 ### Guests
 
--
+- [x] Maximilian Moehl
+- [x] Daniel Gonzalez
 
 ## Minutes
 
 
 ## Action Items
 
+- Provide feedback to community engagement proposal: https://github.com/ironcore-dev/enhancements/pull/19
+- Identify contributors and maintainers for each area (IaaS, Metal Automation, Network Automation)
+- Participate in the voting
+  - Based on the votes, update the TSC members and emeritus status in the OWNERS file
+- Define if TSC meeting should be public and open to everybody
 
 ## Antitrust Policy Notice
 
