@@ -10,7 +10,8 @@
    - Network Automation: Wednesday (bi-weekly)
 3. New Slack channel structure -- presenter: @afritzler
    - #iaas, #metal, #network, #tsc for each respective area
-4. New Maintainer/Contributor groups, permissions and more -- presenter: @gonzolino
+4. Proposal for ironcore community engagement rules -- presenter: @gonzolino
+   - https://github.com/ironcore-dev/enhancements/pull/19
 5. Housekeeping: TSC agenda topics collection -- presenter: @afritzler
    - https://ironcore-dev.slack.com/docs/T01V4AK8HQ8/F0AMB8Z1B8S
 6. Vote: Add Maximilian Moehl as TSC voting member as new TSC member -- presenter: @afritzler
