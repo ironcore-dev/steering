@@ -7,12 +7,12 @@
 - [x] Andreas Fritzler (Chair)
 - [ ] Malte Janduda
 - [ ] Andre Russ
-- [ ] Maximilian Moehl
+- [x] Maximilian Moehl
 - [ ] Benjamin Alpert
-- [ ] Christian Schupfner
+- [x] Christian Schupfner
 - [ ] Filipp Akinfiev
 - [ ] Florin Peter
-- [ ] Lukas Frank
+- [x] Lukas Frank
 - [ ] Matus Taraba
 
 ### Observers
@@ -25,7 +25,13 @@
 
 ## Minutes
 
-- 
+- Community guidelines and engagement rules status update skipped due to lack of participation from the community. -- Andreas Fritzler
+
+## Action Items
+
+- Bring the branch cleanup topic to the community meeting for discussion and decision on how to proceed. -- Lukas Frank
+- onmetal org archivattion: email to the TSC members to discuss and decide on the next steps. -- Andreas Fritzler
+- Move the community guidelines and engagement rules to the next TSC meeting. -- Andreas Fritzler
 
 ## Antitrust Policy Notice
 
