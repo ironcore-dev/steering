@@ -1,5 +1,8 @@
 # IronCore TSC
 
+> [!WARNING]
+> **Deprecated.** The steering content has moved to the [community repository](https://github.com/ironcore-dev/community/tree/main/docs/steering). This repository is no longer maintained.
+
 [![REUSE status](https://api.reuse.software/badge/github.com/ironcore-dev/docs)](https://api.reuse.software/info/github.com/ironcore-dev/docs)
 [![GitHub License](https://img.shields.io/static/v1?label=License&message=Apache-2.0&color=blue)](LICENSE)
 
